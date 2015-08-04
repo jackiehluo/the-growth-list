@@ -1,0 +1,203 @@
+{
+    "startups": [
+    {
+        "name": "Addepar",
+        "summary": "Wealth management software",
+        "location": "Silicon Valley, CA",
+        "size": "50 to 150",
+        "funding": "$65.8 million",
+        "investors": "ff Venture Capital",
+        "glassdoor-rating": 4.7,
+        "link": "https://www.addepar.com/careers/"
+    },
+    {
+        "name": "Affirm",
+        "summary": "Online bank and lending platform",
+        "location": "San Francisco, CA",
+        "size": "50 to 100",
+        "funding": "$320 million",
+        "investors": "a16z, Khosla Ventures, Spark Capital",
+        "glassdoor-rating": 5.0,
+        "link": "https://www.affirm.com/careers/"
+    },
+    {
+        "name": "Airbnb",
+        "summary": "Marketplace for short-term housing",
+        "location": "San Francisco, CA",
+        "size": "1000 to 5000",
+        "funding": "$2.3 billion",
+        "investors": "a16z, KPCB, Sequoia Capital",
+        "glassdoor-rating": 4.5,
+        "link": "https://www.airbnb.com/careers/departments"
+    },
+    {
+        "name": "AppNexus",
+        "summary": "Online advertising platform",
+        "location": "New York, NY",
+        "size": "500 to 1000",
+        "funding": "$288.2 million",
+        "investors": "First Round, Khosla Ventures, Venrock",
+        "glassdoor-rating": 3.5,
+        "link": "http://www.appnexus.com/en/company/careers/open-roles"
+    },
+    {
+        "name": "Asana",
+        "summary": "Task management software",
+        "location": "San Francisco, CA",
+        "size": "50 to 200",
+        "funding": "$38.2 million",
+        "investors": "a16z, Benchmark, Founders Fund",
+        "glassdoor-rating": 5.0,
+        "link": "https://asana.com/jobs#openPositionsList"
+    },
+    {
+        "name": "Ayasdi",
+        "summary": "Big data analytics platform",
+        "location": "Silicon Valley, CA",
+        "size": "50 to 200",
+        "funding": "$106.3 million",
+        "investors": "Khosla Ventures, KPCB",
+        "glassdoor-rating": 4.4,
+        "link": "http://www.ayasdi.com/company/careers/"
+    },
+    {
+        "name": "Betterment",
+        "summary": "Personalized online investment company",
+        "location": "New York, NY",
+        "size": "100 to 250",
+        "funding": "$105 million",
+        "investors": "Bessemer Venture Partners, Menlo Ventures",
+        "glassdoor-rating": 4.0,
+        "link": "https://www.betterment.com/careers/"
+    },
+    {
+        "name": "Birchbox",
+        "summary": "Subscription beauty box",
+        "location": "New York, NY",
+        "size": "100 to 500",
+        "funding": "$71.9 million",
+        "investors": "Accel Partners, First Round, Lerer Hippeau Ventures",
+        "glassdoor-rating": 3.7,
+        "link": "https://www.birchbox.com/about/openings"
+    },
+    {
+        "name": "Blue Apron",
+        "summary": "Recipe-driven delivery service",
+        "location": "New York, NY",
+        "size": "50 to 200",
+        "funding": "$193 million",
+        "investors": "Bessemer Venture Partners, First Round",
+        "glassdoor-rating": 3.3,
+        "link": "https://www.blueapron.com/pages/jobs"
+    },
+    {
+        "name": "Button",
+        "summary": "Deep-linked mobile app experiences",
+        "location": "New York, NY",
+        "size": "10 to 50",
+        "funding": "$14.3 million",
+        "investors": "Greycroft Partners",
+        "glassdoor-rating": 5.0,
+        "link": "https://jobs.lever.co/button"
+    },
+    {
+        "name": "BuzzFeed",
+        "summary": "Social news and entertainment platform",
+        "location": "New York, NY",
+        "size": "500 to 1000",
+        "funding": "$96.3 million",
+        "investors": "a16z, Lerer Hippeau Ventures, SoftBank Capital",
+        "glassdoor-rating": 3.4,
+        "link": "http://www.buzzfeed.com/about/jobs"
+    },
+    {
+        "name": "Canary",
+        "summary": "Smart home security device",
+        "location": "New York, NY",
+        "size": "50 to 200",
+        "funding": "$41.2 million",
+        "investors": "Khosla Ventures",
+        "glassdoor-rating": 4.6,
+        "link": "http://canary.is/jobs/"
+    },
+    {
+        "name": "ClassPass",
+        "summary": "Membership to unlimited fitness classes",
+        "location": "New York, NY",
+        "size": "50 to 100",
+        "funding": "$54 million",
+        "investors": "SV Angel, Thrive Capital",
+        "glassdoor-rating": 3.8,
+        "link": "http://blog.classpass.com/jobs/"
+    },
+    {
+        "name": "Cloudera",
+        "summary": "Hadoop enterprise software",
+        "location": "Silicon Valley, CA",
+        "size": "500 to 1000",
+        "funding": "$1 billion",
+        "investors": "Accel Partners, Google Ventures, Greylock Partners",
+        "glassdoor-rating": 4.6,
+        "link": "http://www.cloudera.com/content/cloudera/en/about/careers/current-openings.html"
+    },
+    {
+        "name": "Codecademy",
+        "summary": "Digital platform for learning to code",
+        "location": "New York, NY",
+        "size": "10 to 50",
+        "funding": "$12.5 million",
+        "investors": "KPCB, Thrive Capital, Union Square Ventures",
+        "glassdoor-rating": 4.5,
+        "link": "https://www.codecademy.com/about/jobs"
+    },
+    {
+        "name": "Coinbase",
+        "summary": "Bitcoin wallet and exchange platform",
+        "location": "San Francisco, CA",
+        "size": "100 to 250",
+        "funding": "$106.7 million",
+        "investors": "a16z, DFJ, Union Square Ventures",
+        "glassdoor-rating": 4.3,
+        "link": "https://www.coinbase.com/careers"
+    },
+    {
+        "name": "DigitalOcean",
+        "summary": "Cloud hosting service",
+        "location": "New York, NY",
+        "size": "100 to 250",
+        "funding": "$173.2 million",
+        "investors": "a16z, IA Ventures",
+        "glassdoor-rating": 4.3,
+        "link": "https://www.digitalocean.com/company/careers/"
+    },
+    {
+        "name": "Docker",
+        "summary": "Platform for distributed applications",
+        "location": "San Francisco, CA",
+        "size": "100 to 250",
+        "funding": "$162 million",
+        "investors": "Benchmark Partners, Greylock Partners, Sequoia Capital",
+        "link": "https://www.docker.com/work-docker"
+    },
+    {
+        "name": "Dropbox",
+        "summary": "Cloud storage service",
+        "location": "San Francisco, CA",
+        "size": "1000 to 5000",
+        "funding": "$1.1 billion",
+        "investors": "Accel Partners, Greylock Partners, Sequoia Capital",
+        "glassdoor-rating": 4.8,
+        "link": "https://www.dropbox.com/jobs/all"
+    },
+    {
+        "name": "Evernote",
+        "summary": "Productivity software",
+        "location": "Silicon Valley, CA",
+        "size": "250 to 500",
+        "funding": "$290 million",
+        "investors": "Sequoia Capital",
+        "glassdoor-rating": 3.9,
+        "link": "https://evernote.com/careers/#available_positions"
+    },
+    ]
+}
