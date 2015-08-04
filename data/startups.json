@@ -176,7 +176,7 @@
         "location": "San Francisco, CA",
         "size": "100 to 250",
         "funding": "$162 million",
-        "investors": "Benchmark Partners, Greylock Partners, Sequoia Capital",
+        "investors": "Benchmark, Greylock Partners, Sequoia Capital",
         "link": "https://www.docker.com/work-docker"
     },
     {
@@ -190,6 +190,16 @@
         "link": "https://www.dropbox.com/jobs/all"
     },
     {
+        "name": "Eventbrite",
+        "summary": "Event management platform",
+        "location": "San Francisco, CA",
+        "size": "150 to 500",
+        "funding": "$199.6 million",
+        "investors": "Sequoia Capital, SoftTech VC, SV Angel",
+        "glassdoor-rating": 4.7,
+        "link": "https://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qU29VfwK&cs=9vBbVfwW&nl=0"
+    },
+    {
         "name": "Evernote",
         "summary": "Productivity software",
         "location": "Silicon Valley, CA",
@@ -199,5 +209,495 @@
         "glassdoor-rating": 3.9,
         "link": "https://evernote.com/careers/#available_positions"
     },
+    {
+        "name": "Flatiron Health",
+        "summary": "Cloud platform for oncology data",
+        "location": "New York, NY",
+        "size": "150 to 500",
+        "funding": "$139.4 million",
+        "investors": "First Round, Google Ventures, SV Angel",
+        "glassdoor-rating": 5.0,
+        "link": "http://flatiron.com/careers"
+    },
+    {
+        "name": "GitHub",
+        "summary": "Git repository hosting service",
+        "location": "San Francisco, CA",
+        "size": "150 to 500",
+        "funding": "$350 million",
+        "investors": "a16z, Sequoia Capital, Thrive Capital",
+        "glassdoor-rating": 4.8,
+        "link": "https://github.com/about/jobs"
+    },
+    {
+        "name": "Glassdoor",
+        "summary": "Career marketplace",
+        "location": "Silicon Valley, CA",
+        "size": "250 to 500",
+        "funding": "$161.5 million",
+        "investors": "Benchmark, Google Capital",
+        "glassdoor-rating": 4.7,
+        "link": "http://jobs.glassdoor.com/home?id=GLASA001M"
+    },
+    {
+        "name": "Greenhouse",
+        "summary": "Recruiting optimization software",
+        "location": "New York, NY",
+        "size": "10 to 50",
+        "funding": "$24.8 million",
+        "investors": "Benchmark, Google Capital",
+        "glassdoor-rating": 4.8,
+        "link": "http://www.greenhouse.io/careers"
+    },
+    {
+        "name": "Handy",
+        "summary": "On-demand app for household service providers",
+        "location": "New York, NY",
+        "size": "150 to 500",
+        "funding": "$60.7 million",
+        "investors": "General Catalyst Partners, Highland Capital Partners",
+        "glassdoor-rating": 3.3,
+        "link": "https://www.handy.com/careers"
+    },
+    {
+        "name": "Heap",
+        "summary": "Analytics service for user actions",
+        "location": "San Francisco, CA",
+        "size": "10 to 50",
+        "funding": "$2 million",
+        "investors": "SV Angel",
+        "link": "https://heapanalytics.com/jobs"
+    },
+    {
+        "name": "Hello Alfred",
+        "summary": "Automatic service for weekly errands",
+        "location": "New York, NY",
+        "size": "10 to 50",
+        "funding": "$12.5 million",
+        "investors": "Spark Capital, SV Angel",
+        "link": "https://boards.greenhouse.io/helloalfred#.VcBDHpNViko"
+    },
+    {
+        "name": "IFTTT",
+        "summary": "Automation app for chained actions",
+        "location": "San Francisco, CA",
+        "size": "10 to 50",
+        "funding": "$38.5 million",
+        "investors": "a16z, Greylock Partners, Lerer Hippeau Ventures",
+        "link": "https://ifttt.com/jobs"
+    },
+    {
+        "name": "Indiegogo",
+        "summary": "Crowdfunding platform",
+        "location": "San Francisco, CA",
+        "size": "50 to 150",
+        "funding": "$56.5 million",
+        "investors": "ff Venture Capital, Khosla Ventures, KPCB",
+        "glassdoor-rating": 4.4,
+        "link": "https://www.indiegogo.com/careers#openings"
+    },
+    {
+        "name": "Instacart",
+        "summary": "On-demand grocery delivery",
+        "location": "San Francisco, CA",
+        "size": "100 to 250",
+        "funding": "$274.8 million",
+        "investors": "a16z, KPCB, Sequoia Capital",
+        "glassdoor-rating": 3.2,
+        "link": "https://www.instacart.com/jobs"
+    },
+    {
+        "name": "Lever",
+        "summary": "Hiring platform",
+        "location": "San Francisco, CA",
+        "size": "10 to 50",
+        "funding": "$12.8 million",
+        "investors": "Index Ventures, SV Angel",
+        "glassdoor-rating": 5.0,
+        "link": "https://www.lever.co/jobs"
+    },
+    {
+        "name": "Lob",
+        "summary": "Cloud-printing API",
+        "location": "San Francisco, CA",
+        "size": "10 to 50",
+        "funding": "$9.4 million",
+        "investors": "First Round, Ludlow Ventures",
+        "glassdoor-rating": 5.0,
+        "link": "https://lob.com/careers#openings"
+    },
+    {
+        "name": "Lyft",
+        "summary": "Peer-to-peer transportation system",
+        "location": "San Francisco, CA",
+        "size": "250 to 500",
+        "funding": "$1 billion",
+        "investors": "a16z, Founders Fund",
+        "glassdoor-rating": 4.1,
+        "link": "https://www.lyft.com/jobs"
+    },
+    {
+        "name": "Magic Leap",
+        "summary": "Wearable tech for augmented reality",
+        "location": "Dania, FL",
+        "size": "100 to 250",
+        "funding": "$592 million",
+        "investors": "a16z, Google, KPCB",
+        "glassdoor-rating": 5.0,
+        "link": "http://www.magicleap.com/#/wizards-wanted"
+    },
+    {
+        "name": "Mattermark",
+        "summary": "Business intelligence platform for VCs",
+        "location": "San Francisco, CA",
+        "size": "10 to 50",
+        "funding": "$9.9 million",
+        "investors": "a16z, Foundry Group",
+        "glassdoor-rating": 4.4,
+        "link": "http://mattermark.com/jobs/"
+    },
+    {
+        "name": "Medium",
+        "summary": "Idea-based blogging platform",
+        "location": "San Francisco, CA",
+        "size": "50 to 150",
+        "funding": "$25 million",
+        "investors": "Google Ventures, Greylock Partners",
+        "glassdoor-rating": 4.5,
+        "link": "https://medium.com/@Medium/jobs-page-b157594e8fce#bff4"
+    },
+    {
+        "name": "Mixpanel",
+        "summary": "Web and mobile analytics platform",
+        "location": "San Francisco, CA",
+        "size": "50 to 150",
+        "funding": "$77 million",
+        "investors": "a16z, Sequoia Capital",
+        "glassdoor-rating": 4.5,
+        "link": "https://mixpanel.com/jobs/#openings"
+    },
+    {
+        "name": "MongoDB",
+        "summary": "NoSQL database ecosystem",
+        "location": "New York, NY",
+        "size": "250 to 500",
+        "funding": "$311.1 million",
+        "investors": "Flybridge Capital Partners, Sequoia Capital, Union Square Ventures",
+        "glassdoor-rating": 4.0,
+        "link": "https://www.mongodb.com/careers/positions"
+    },
+    {
+        "name": "Munchery",
+        "summary": "Made-from-scratch food delivery service",
+        "location": "San Francisco, CA",
+        "size": "100 to 250",
+        "funding": "$124.9 million",
+        "investors": "Greycroft Partners, Menlo Ventures",
+        "glassdoor-rating": 3.0,
+        "link": "https://munchery.com/jobs/"
+    },
+    {
+        "name": "Nest",
+        "summary": "Smart home devices",
+        "location": "Silicon Valley, CA",
+        "size": "100 to 500",
+        "funding": "$80 million (Acquired by Google)",
+        "investors": "Google Ventures, KPCB, Venrock",
+        "glassdoor-rating": 3.5,
+        "link": "https://nest.com/careers/"
+    },
+    {
+        "name": "Oculus VR",
+        "summary": "Virtual reality wearable tech",
+        "location": "Silicon Valley, CA",
+        "size": "100 to 250",
+        "funding": "$93.4 million (Acquired by Facebook)",
+        "investors": "a16z, Founders Fund, Spark Capital",
+        "link": "https://www.oculus.com/en-us/careers/"
+    },
+    {
+        "name": "Operator",
+        "summary": "On-demand concierge app",
+        "location": "San Francisco, CA",
+        "size": "10 to 50",
+        "funding": "$10 million",
+        "investors": "Greylock Partners",
+        "link": "https://operator.com/jobs/"
+    },
+    {
+        "name": "Optimizely",
+        "summary": "A/B testing platform",
+        "location": "San Francisco, CA",
+        "size": "150 to 500",
+        "funding": "$88.2 million",
+        "investors": "a16z, Benchmark, Google Ventures",
+        "glassdoor-rating": 4.8,
+        "link": "https://www.optimizely.com/careers/"
+    },
+    {
+        "name": "Oscar",
+        "summary": "Tech-based health insurance company",
+        "location": "New York, NY",
+        "size": "150 to 500",
+        "funding": "$295 million",
+        "investors": "Founders Fund, Khosla Ventures, Thrive Capital",
+        "glassdoor-rating": 4.9,
+        "link": "https://www.hioscar.com/jobs/"
+    },
+    {
+        "name": "Outbrain",
+        "summary": "Content discovery platform",
+        "location": "New York, NY",
+        "size": "150 to 500",
+        "funding": "$149 million",
+        "investors": "Index Ventures, Lightspeed Venture Partners",
+        "glassdoor-rating": 3.6,
+        "link": "http://outbrain.mytribehr.com/careers/"
+    },
+    {
+        "name": "Palantir",
+        "summary": "Data analysis software",
+        "location": "Silicon Valley, CA",
+        "size": "1000 to 5000",
+        "funding": "$1.6 billion",
+        "investors": "Founders Fund",
+        "glassdoor-rating": 4.4,
+        "link": "https://www.palantir.com/careers/"
+    },
+    {
+        "name": "Pebble",
+        "summary": "Smart watches",
+        "location": "Silicon Valley, CA",
+        "size": "10 to 50",
+        "funding": "$46 billion",
+        "investors": "Draper Associates",
+        "link": "https://getpebble.com/jobs"
+    },
+    {
+        "name": "Percolate",
+        "summary": "Marketing software for Fortune 500 companies",
+        "location": "New York, NY",
+        "size": "250 to 500",
+        "funding": "$74.5 million",
+        "investors": "First Round, Lightspeed Venture Partners, Sequoia Capital",
+        "glassdoor-rating": 3.7,
+        "link": "https://percolate.com/careers/"
+    },
+    {
+        "name": "Pinterest",
+        "summary": "Visual discovery platform",
+        "location": "San Francisco, CA",
+        "size": "150 to 500",
+        "funding": "$1.3 billion",
+        "investors": "a16z, Bessemer Venture Partners, FirstMark Capital",
+        "glassdoor-rating": 4.6,
+        "link": "https://careers.pinterest.com/careers"
+    },
+    {
+        "name": "Postmates",
+        "summary": "On-demand delivery platform",
+        "location": "San Francisco, CA",
+        "size": "100 to 250",
+        "funding": "$138 million",
+        "investors": "Founders Fund, SoftTech VC, Spark Capital",
+        "glassdoor-rating": 3.5,
+        "link": "https://postmates.com/jobs"
+    },
+    {
+        "name": "Quora",
+        "summary": "Question-and-answer community",
+        "location": "Silicon Valley, CA",
+        "size": "50 to 150",
+        "funding": "$161 million",
+        "investors": "Benchmark, SV Angel",
+        "glassdoor-rating": 3.7,
+        "link": "http://www.quora.com/careers"
+    },
+    {
+        "name": "Reserve",
+        "summary": "Digital concierge service for restaurants",
+        "location": "New York, NY",
+        "size": "50 to 100",
+        "funding": "$15 million",
+        "investors": "First Round, SV Angel",
+        "link": "https://reserve.com/jobs"
+    },
+    {
+        "name": "Ripple Labs",
+        "summary": "Distributed payment protocol and network",
+        "location": "San Francisco, CA",
+        "size": "50 to 200",
+        "funding": "$34.4 million",
+        "investors": "a16z, Google Ventures, Lightspeed Venture Partners",
+        "glassdoor-rating": 5.0,
+        "link": "https://www.ripplelabs.com/careers/"
+    },
+    {
+        "name": "Robinhood",
+        "summary": "Commission-free stock brockerage",
+        "location": "Silicon Valley, CA",
+        "size": "10 to 50",
+        "funding": "$66 million",
+        "investors": "a16z, Google Ventures, Index Ventures",
+        "link": "https://jobs.lever.co/robinhood"
+    },
+    {
+        "name": "Sailthru",
+        "summary": "Personalized marketing communication",
+        "location": "New York, NY",
+        "size": "100 to 250",
+        "funding": "$48 million",
+        "investors": "Benchmark, DFJ, RRE Ventures",
+        "glassdoor-rating": 3.6,
+        "link": "http://www.sailthru.com/join-us/"
+    },
+    {
+        "name": "Sift Science",
+        "summary": "Fraud detection tech through machine learning",
+        "location": "San Francisco, CA",
+        "size": "10 to 50",
+        "funding": "$23.6 million",
+        "investors": "First Round, Founder Collective, Union Square Ventures",
+        "glassdoor-rating": 4.9,
+        "link": "https://siftscience.com/jobs"
+    },
+    {
+        "name": "Slack",
+        "summary": "Team communication app",
+        "location": "San Francisco, CA",
+        "size": "100 to 250",
+        "funding": "$340 million",
+        "investors": "a16z, Accel Partners, Google Ventures",
+        "glassdoor-rating": 5.0,
+        "link": "https://slack.com/jobs"
+    },
+    {
+        "name": "SpaceX",
+        "summary": "Space transport startup",
+        "location": "Hawthorne, CA",
+        "size": "1000 to 5000",
+        "funding": "$1.2 billion",
+        "investors": "DFJ, Founders Fund, Google",
+        "glassdoor-rating": 4.0,
+        "link": "http://www.spacex.com/careers/list"
+    },
+    {
+        "name": "Splash",
+        "summary": "Event management platform",
+        "location": "New York, NY",
+        "size": "10 to 50",
+        "funding": "$7.5 million",
+        "investors": "Lerer Hippeau Ventures, Spark Capital",
+        "link": "https://splashthat.com/careers"
+    },
+    {
+        "name": "Spotify",
+        "summary": "Music streaming service",
+        "location": "New York, NY",
+        "size": "1000 to 5000",
+        "funding": "$1.1 billion",
+        "investors": "Accel Partners, Founders Fund, KPCB",
+        "glassdoor-rating": 3.9,
+        "link": "https://www.spotify.com/us/jobs/opportunities/"
+    },
+    {
+        "name": "Square",
+        "summary": "Point of sale and payment service",
+        "location": "San Francisco, CA",
+        "size": "1000 to 5000",
+        "funding": "$590.5 million",
+        "investors": "KPCB, Sequoia Capital, Silicon Valley Bank",
+        "glassdoor-rating": 4.5,
+        "link": "http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=q8Z9VfwV&page=Jobs"
+    },
+    {
+        "name": "Squarespace",
+        "summary": "CMS and website builder",
+        "location": "New York, NY",
+        "size": "500 to 1000",
+        "funding": "$78.5 million",
+        "investors": "Accel Partners, Index Ventures",
+        "glassdoor-rating": 4.0,
+        "link": "http://www.squarespace.com/about/careers"
+    },
+    {
+        "name": "Stack Exchange",
+        "summary": "Community for questions and answers",
+        "location": "New York, NY",
+        "size": "150 to 500",
+        "funding": "$68 million",
+        "investors": "a16z, Spark Capital, Union Square Ventures",
+        "glassdoor-rating": 4.0,
+        "link": "http://stackexchange.com/work-here"
+    },
+    {
+        "name": "Stripe",
+        "summary": "Online payment APIs",
+        "location": "San Francisco, CA",
+        "size": "250 to 500",
+        "funding": "$190 million",
+        "investors": "a16z, Founders Fund, Sequoia Capital",
+        "glassdoor-rating": 4.1,
+        "link": "https://stripe.com/jobs/#openings"
+    },
+    {
+        "name": "Twilio",
+        "summary": "Developer platform for telecommunications",
+        "location": "San Francisco, CA",
+        "size": "250 to 500",
+        "funding": "$233.7 million",
+        "investors": "Bessemer Venture Partners, Founders Fund, Union Square Ventures",
+        "glassdoor-rating": 4.6,
+        "link": "https://www.twilio.com/company/jobs"
+    },
+    {
+        "name": "Twitch",
+        "summary": "Social gaming platform for video streaming",
+        "location": "San Francisco, CA",
+        "size": "50 to 100",
+        "funding": "$35 million (Acquired by Amazon)",
+        "investors": "Bessemer Venture Partners, Draper Associates, Thrive Capital",
+        "glassdoor-rating": 4.9,
+        "link": "http://www.jobscore.com/jobs2/twitch"
+    },
+    {
+        "name": "Venmo",
+        "summary": "Social payment app",
+        "location": "New York, NY",
+        "size": "50 to 200",
+        "funding": "$1.3 million (Acquired by PayPal)",
+        "investors": "Accel Partners, Lerer Hippeau Ventures, RRE Ventures",
+        "glassdoor-rating": 4.8,
+        "link": "https://venmo.com/jobs/"
+    },
+    {
+        "name": "Vicarious",
+        "summary": "AI for visual perception",
+        "location": "San Francisco, CA",
+        "size": "1 to 10",
+        "funding": "$72 million",
+        "investors": "Founders Fund",
+        "link": "http://vicarious.com/join.html"
+    },
+    {
+        "name": "Wealthfront",
+        "summary": "Automated investment service",
+        "location": "Silicon Valley, CA",
+        "size": "10 to 50",
+        "funding": "$129.5 million",
+        "investors": "Benchmark, Greylock Partners, Index Ventures",
+        "glassdoor-rating": 4.8,
+        "link": "https://www.wealthfront.com/careers#job-postings"
+    },
+    {
+        "name": "ZocDoc",
+        "summary": "Marketplace for doctors and healthcare",
+        "location": "New York, NY",
+        "size": "500 to 1000",
+        "funding": "$97.9 million",
+        "investors": "Founders Fund, Khosla Ventures",
+        "glassdoor-rating": 3.5,
+        "link": "https://www.zocdoc.com/careers"
+    }
     ]
 }
