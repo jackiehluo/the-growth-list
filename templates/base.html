@@ -4,12 +4,16 @@
     <meta charset="utf-8">
     <link rel="shortcut icon" href="static/img/favicon.png">
     <title>The Growth List</title>
+    <link rel="stylesheet" href="static/css/bootstrap.css">
     <link rel="stylesheet" href="static/css/style.css">
     {% block css %}{% endblock %}
+    <script src="static/js/bootstrap.js"></script>
   </head>
 
-   <body>
-    <a href="{{ url_for('index') }}"><h4>THE GROWTH LIST</h4></a>
+  <body>
+  <nav class="navbar navbar-default">
+    <a href="{{ url_for('index') }}"><h3>THE GROWTH LIST</h3></a>
+  </nav>
       {% block content %}{% endblock %}
       {% block js %}{% endblock %}
   </body>

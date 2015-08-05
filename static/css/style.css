@@ -1,17 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,300,700);
 
-html {
-    font-family: "Lato", "Helvetica", "Arial", sans-serif;
-}
-
-table {
-    border: 1px solid black;
-    margin: auto;
-}
-
-td {
-    border: 1px solid black;
+.startup-list td {
     height: 40px;
-    padding: 10px;
+    max-width: 200px;
     text-align: center;
+    font-weight: 300;
+    word-wrap: break-word;
 }

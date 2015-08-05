@@ -1,10 +1,17 @@
 {% extends "base.html" %}
 {% block content %}
 
-<table>
+<table class="table table-striped startup-list">
+  <tr>
+      <td><h4>Startup</h4></td>
+      <td><h4>Summary</h4></td>
+      <td><h4>Location</h4></td>
+      <td><h4>Size</h4></td>
+  </tr>
   {% for startup in startups %}
     <tr>
       <td><img src="{{ startup['logo'] }}"></td>
+      <td>{{ startup['summary'] }}</td>
       <td>{{ startup['location'] }}</td>
       <td>{{ startup['size'] }}</td>
     </tr>
