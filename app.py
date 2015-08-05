@@ -1,9 +1,7 @@
 from flask import Flask, render_template
-import config
 import json
 
 app = Flask(__name__)
-app.config.from_object('config')
 
 @app.route('/')
 def index():
@@ -12,4 +10,4 @@ def index():
     return render_template('index.html', **data)
 
 if __name__ == '__main__':
-    app.run(debug=config.DEBUG, host=config.HOST)
+    app.run(debug=True, host='0.0.0.0')

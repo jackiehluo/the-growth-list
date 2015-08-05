@@ -1457,7 +1457,7 @@ th {
 }
 .table {
   margin: auto;
-  width: 60%;
+  width: 100%;
   max-width: 100%;
   margin-bottom: 20px;
 }
@@ -3407,10 +3407,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-top-right-radius: 0;
 }
 .navbar {
-  position: fixed;
-  padding: 10px;
+  position: relative;
   min-height: 50px;
-  margin-top: 100px;
+  margin-bottom: 20px;
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {

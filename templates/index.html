@@ -3,17 +3,23 @@
 
 <table class="table table-striped startup-list">
   <tr>
-      <td><h4>Startup</h4></td>
-      <td><h4>Summary</h4></td>
-      <td><h4>Location</h4></td>
-      <td><h4>Size</h4></td>
+      <td><h5>Startup</h5></td>
+      <td><h5>Product</h5></td>
+      <td><h5>Location</h5></td>
+      <td><h5>Size</h5></td>
+      <td><h5>Rating</h5></td>
+      <td><h5>Funding</h5></td>
+      <td><h5>Investors</h5></td>
   </tr>
   {% for startup in startups %}
     <tr>
-      <td><img src="{{ startup['logo'] }}"></td>
+      <td><a href="{{ startup['link'] }}"><img src="{{ startup['logo'] }}"></a></td>
       <td>{{ startup['summary'] }}</td>
       <td>{{ startup['location'] }}</td>
       <td>{{ startup['size'] }}</td>
+      <td>{{ startup['glassdoor-rating'] }}</td>
+      <td>{{ startup['funding'] }}</td>
+      <td>{{ startup['investors'] }}</td>
     </tr>
   {% endfor %}
 </table> 
