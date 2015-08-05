@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+
+<table>
+  {% for startup in startups %}
+    <tr>
+      <td><img src="{{ startup['logo'] }}"></td>
+      <td>{{ startup['location'] }}</td>
+      <td>{{ startup['size'] }}</td>
+    </tr>
+  {% endfor %}
+</table> 
+
+{% endblock %}

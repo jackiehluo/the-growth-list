@@ -8,6 +8,7 @@
         "funding": "$65.8 million",
         "investors": "ff Venture Capital",
         "glassdoor-rating": 4.7,
+        "logo": "static/img/addepar.png",
         "link": "https://www.addepar.com/careers/"
     },
     {
@@ -18,6 +19,7 @@
         "funding": "$320 million",
         "investors": "a16z, Khosla Ventures, Spark Capital",
         "glassdoor-rating": 5.0,
+        "logo": "static/img/affirm.png",
         "link": "https://www.affirm.com/careers/"
     },
     {
@@ -28,6 +30,7 @@
         "funding": "$2.3 billion",
         "investors": "a16z, KPCB, Sequoia Capital",
         "glassdoor-rating": 4.5,
+        "logo": "static/img/airbnb.png",
         "link": "https://www.airbnb.com/careers/departments"
     },
     {
@@ -38,6 +41,7 @@
         "funding": "$288.2 million",
         "investors": "First Round, Khosla Ventures, Venrock",
         "glassdoor-rating": 3.5,
+        "logo": "static/img/appnexus.png",
         "link": "http://www.appnexus.com/en/company/careers/open-roles"
     },
     {
@@ -48,6 +52,7 @@
         "funding": "$38.2 million",
         "investors": "a16z, Benchmark, Founders Fund",
         "glassdoor-rating": 5.0,
+        "logo": "static/img/asana.png",
         "link": "https://asana.com/jobs#openPositionsList"
     },
     {
@@ -58,6 +63,7 @@
         "funding": "$106.3 million",
         "investors": "Khosla Ventures, KPCB",
         "glassdoor-rating": 4.4,
+        "logo": "static/img/ayasdi.png",
         "link": "http://www.ayasdi.com/company/careers/"
     },
     {
@@ -68,6 +74,7 @@
         "funding": "$105 million",
         "investors": "Bessemer Venture Partners, Menlo Ventures",
         "glassdoor-rating": 4.0,
+        "logo": "static/img/betterment.png",
         "link": "https://www.betterment.com/careers/"
     },
     {
@@ -78,6 +85,7 @@
         "funding": "$71.9 million",
         "investors": "Accel Partners, First Round, Lerer Hippeau Ventures",
         "glassdoor-rating": 3.7,
+        "logo": "static/img/birchbox.png",
         "link": "https://www.birchbox.com/about/openings"
     },
     {
@@ -88,6 +96,7 @@
         "funding": "$193 million",
         "investors": "Bessemer Venture Partners, First Round",
         "glassdoor-rating": 3.3,
+        "logo": "static/img/blue-apron.png",
         "link": "https://www.blueapron.com/pages/jobs"
     },
     {
@@ -98,6 +107,7 @@
         "funding": "$14.3 million",
         "investors": "Greycroft Partners",
         "glassdoor-rating": 5.0,
+        "logo": "static/img/button.png",
         "link": "https://jobs.lever.co/button"
     },
     {
@@ -108,6 +118,7 @@
         "funding": "$96.3 million",
         "investors": "a16z, Lerer Hippeau Ventures, SoftBank Capital",
         "glassdoor-rating": 3.4,
+        "logo": "static/img/buzzfeed.png",
         "link": "http://www.buzzfeed.com/about/jobs"
     },
     {
@@ -118,6 +129,7 @@
         "funding": "$41.2 million",
         "investors": "Khosla Ventures",
         "glassdoor-rating": 4.6,
+        "logo": "static/img/canary.png",
         "link": "http://canary.is/jobs/"
     },
     {
@@ -128,6 +140,7 @@
         "funding": "$54 million",
         "investors": "SV Angel, Thrive Capital",
         "glassdoor-rating": 3.8,
+        "logo": "static/img/classpass.png",
         "link": "http://blog.classpass.com/jobs/"
     },
     {
@@ -138,6 +151,7 @@
         "funding": "$1 billion",
         "investors": "Accel Partners, Google Ventures, Greylock Partners",
         "glassdoor-rating": 4.6,
+        "logo": "static/img/cloudera.png",
         "link": "http://www.cloudera.com/content/cloudera/en/about/careers/current-openings.html"
     },
     {
@@ -148,6 +162,7 @@
         "funding": "$12.5 million",
         "investors": "KPCB, Thrive Capital, Union Square Ventures",
         "glassdoor-rating": 4.5,
+        "logo": "static/img/codecademy.png",
         "link": "https://www.codecademy.com/about/jobs"
     },
     {
@@ -158,6 +173,7 @@
         "funding": "$106.7 million",
         "investors": "a16z, DFJ, Union Square Ventures",
         "glassdoor-rating": 4.3,
+        "logo": "static/img/coinbase.png",
         "link": "https://www.coinbase.com/careers"
     },
     {
@@ -168,6 +184,7 @@
         "funding": "$173.2 million",
         "investors": "a16z, IA Ventures",
         "glassdoor-rating": 4.3,
+        "logo": "static/img/digitalocean.png",
         "link": "https://www.digitalocean.com/company/careers/"
     },
     {
@@ -177,6 +194,7 @@
         "size": "100 to 250",
         "funding": "$162 million",
         "investors": "Benchmark, Greylock Partners, Sequoia Capital",
+        "logo": "static/img/docker.png",
         "link": "https://www.docker.com/work-docker"
     },
     {
@@ -187,6 +205,7 @@
         "funding": "$1.1 billion",
         "investors": "Accel Partners, Greylock Partners, Sequoia Capital",
         "glassdoor-rating": 4.8,
+        "logo": "static/img/dropbox.png",
         "link": "https://www.dropbox.com/jobs/all"
     },
     {
@@ -197,6 +216,7 @@
         "funding": "$199.6 million",
         "investors": "Sequoia Capital, SoftTech VC, SV Angel",
         "glassdoor-rating": 4.7,
+        "logo": "static/img/eventbrite.png",
         "link": "https://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qU29VfwK&cs=9vBbVfwW&nl=0"
     },
     {
@@ -207,6 +227,7 @@
         "funding": "$290 million",
         "investors": "Sequoia Capital",
         "glassdoor-rating": 3.9,
+        "logo": "static/img/evernote.png",
         "link": "https://evernote.com/careers/#available_positions"
     },
     {
@@ -217,6 +238,7 @@
         "funding": "$139.4 million",
         "investors": "First Round, Google Ventures, SV Angel",
         "glassdoor-rating": 5.0,
+        "logo": "static/img/flatiron-health.png",
         "link": "http://flatiron.com/careers"
     },
     {
@@ -227,6 +249,7 @@
         "funding": "$350 million",
         "investors": "a16z, Sequoia Capital, Thrive Capital",
         "glassdoor-rating": 4.8,
+        "logo": "static/img/github.png",
         "link": "https://github.com/about/jobs"
     },
     {
@@ -237,6 +260,7 @@
         "funding": "$161.5 million",
         "investors": "Benchmark, Google Capital",
         "glassdoor-rating": 4.7,
+        "logo": "static/img/glassdoor.png",
         "link": "http://jobs.glassdoor.com/home?id=GLASA001M"
     },
     {
@@ -247,6 +271,7 @@
         "funding": "$24.8 million",
         "investors": "Benchmark, Google Capital",
         "glassdoor-rating": 4.8,
+        "logo": "static/img/greenhouse.png",
         "link": "http://www.greenhouse.io/careers"
     },
     {
@@ -257,6 +282,7 @@
         "funding": "$60.7 million",
         "investors": "General Catalyst Partners, Highland Capital Partners",
         "glassdoor-rating": 3.3,
+        "logo": "static/img/handy.png",
         "link": "https://www.handy.com/careers"
     },
     {
@@ -266,6 +292,7 @@
         "size": "10 to 50",
         "funding": "$2 million",
         "investors": "SV Angel",
+        "logo": "static/img/heap.png",
         "link": "https://heapanalytics.com/jobs"
     },
     {
@@ -275,6 +302,7 @@
         "size": "10 to 50",
         "funding": "$12.5 million",
         "investors": "Spark Capital, SV Angel",
+        "logo": "static/img/hello-alfred.png",
         "link": "https://boards.greenhouse.io/helloalfred#.VcBDHpNViko"
     },
     {
@@ -284,6 +312,7 @@
         "size": "10 to 50",
         "funding": "$38.5 million",
         "investors": "a16z, Greylock Partners, Lerer Hippeau Ventures",
+        "logo": "static/img/ifttt.png",
         "link": "https://ifttt.com/jobs"
     },
     {
@@ -294,6 +323,7 @@
         "funding": "$56.5 million",
         "investors": "ff Venture Capital, Khosla Ventures, KPCB",
         "glassdoor-rating": 4.4,
+        "logo": "static/img/indiegogo.png",
         "link": "https://www.indiegogo.com/careers#openings"
     },
     {
@@ -304,6 +334,7 @@
         "funding": "$274.8 million",
         "investors": "a16z, KPCB, Sequoia Capital",
         "glassdoor-rating": 3.2,
+        "logo": "static/img/instacart.png",
         "link": "https://www.instacart.com/jobs"
     },
     {
@@ -314,6 +345,7 @@
         "funding": "$12.8 million",
         "investors": "Index Ventures, SV Angel",
         "glassdoor-rating": 5.0,
+        "logo": "static/img/lever.png",
         "link": "https://www.lever.co/jobs"
     },
     {
@@ -324,6 +356,7 @@
         "funding": "$9.4 million",
         "investors": "First Round, Ludlow Ventures",
         "glassdoor-rating": 5.0,
+        "logo": "static/img/lob.png",
         "link": "https://lob.com/careers#openings"
     },
     {
@@ -334,6 +367,7 @@
         "funding": "$1 billion",
         "investors": "a16z, Founders Fund",
         "glassdoor-rating": 4.1,
+        "logo": "static/img/lyft.png",
         "link": "https://www.lyft.com/jobs"
     },
     {
@@ -344,6 +378,7 @@
         "funding": "$592 million",
         "investors": "a16z, Google, KPCB",
         "glassdoor-rating": 5.0,
+        "logo": "static/img/magic-leap.png",
         "link": "http://www.magicleap.com/#/wizards-wanted"
     },
     {
@@ -354,6 +389,7 @@
         "funding": "$9.9 million",
         "investors": "a16z, Foundry Group",
         "glassdoor-rating": 4.4,
+        "logo": "static/img/mattermark.png",
         "link": "http://mattermark.com/jobs/"
     },
     {
@@ -364,6 +400,7 @@
         "funding": "$25 million",
         "investors": "Google Ventures, Greylock Partners",
         "glassdoor-rating": 4.5,
+        "logo": "static/img/medium.png",
         "link": "https://medium.com/@Medium/jobs-page-b157594e8fce#bff4"
     },
     {
@@ -374,6 +411,7 @@
         "funding": "$77 million",
         "investors": "a16z, Sequoia Capital",
         "glassdoor-rating": 4.5,
+        "logo": "static/img/mixpanel.png",
         "link": "https://mixpanel.com/jobs/#openings"
     },
     {
@@ -384,6 +422,7 @@
         "funding": "$311.1 million",
         "investors": "Flybridge Capital Partners, Sequoia Capital, Union Square Ventures",
         "glassdoor-rating": 4.0,
+        "logo": "static/img/mongodb.png",
         "link": "https://www.mongodb.com/careers/positions"
     },
     {
@@ -394,6 +433,7 @@
         "funding": "$124.9 million",
         "investors": "Greycroft Partners, Menlo Ventures",
         "glassdoor-rating": 3.0,
+        "logo": "static/img/munchery.png",
         "link": "https://munchery.com/jobs/"
     },
     {
@@ -404,6 +444,7 @@
         "funding": "$80 million (Acquired by Google)",
         "investors": "Google Ventures, KPCB, Venrock",
         "glassdoor-rating": 3.5,
+        "logo": "static/img/nest.png",
         "link": "https://nest.com/careers/"
     },
     {
@@ -413,6 +454,7 @@
         "size": "100 to 250",
         "funding": "$93.4 million (Acquired by Facebook)",
         "investors": "a16z, Founders Fund, Spark Capital",
+        "logo": "static/img/oculus-vr.png",
         "link": "https://www.oculus.com/en-us/careers/"
     },
     {
@@ -422,6 +464,7 @@
         "size": "10 to 50",
         "funding": "$10 million",
         "investors": "Greylock Partners",
+        "logo": "static/img/operator.png",
         "link": "https://operator.com/jobs/"
     },
     {
@@ -432,6 +475,7 @@
         "funding": "$88.2 million",
         "investors": "a16z, Benchmark, Google Ventures",
         "glassdoor-rating": 4.8,
+        "logo": "static/img/optimizely.png",
         "link": "https://www.optimizely.com/careers/"
     },
     {
@@ -442,6 +486,7 @@
         "funding": "$295 million",
         "investors": "Founders Fund, Khosla Ventures, Thrive Capital",
         "glassdoor-rating": 4.9,
+        "logo": "static/img/oscar.png",
         "link": "https://www.hioscar.com/jobs/"
     },
     {
@@ -452,6 +497,7 @@
         "funding": "$149 million",
         "investors": "Index Ventures, Lightspeed Venture Partners",
         "glassdoor-rating": 3.6,
+        "logo": "static/img/outbrain.png",
         "link": "http://outbrain.mytribehr.com/careers/"
     },
     {
@@ -462,6 +508,7 @@
         "funding": "$1.6 billion",
         "investors": "Founders Fund",
         "glassdoor-rating": 4.4,
+        "logo": "static/img/palantir.png",
         "link": "https://www.palantir.com/careers/"
     },
     {
@@ -471,6 +518,7 @@
         "size": "10 to 50",
         "funding": "$46 billion",
         "investors": "Draper Associates",
+        "logo": "static/img/pebble.png",
         "link": "https://getpebble.com/jobs"
     },
     {
@@ -481,6 +529,7 @@
         "funding": "$74.5 million",
         "investors": "First Round, Lightspeed Venture Partners, Sequoia Capital",
         "glassdoor-rating": 3.7,
+        "logo": "static/img/percolate.png",
         "link": "https://percolate.com/careers/"
     },
     {
@@ -491,6 +540,7 @@
         "funding": "$1.3 billion",
         "investors": "a16z, Bessemer Venture Partners, FirstMark Capital",
         "glassdoor-rating": 4.6,
+        "logo": "static/img/pinterest.png",
         "link": "https://careers.pinterest.com/careers"
     },
     {
@@ -501,6 +551,7 @@
         "funding": "$138 million",
         "investors": "Founders Fund, SoftTech VC, Spark Capital",
         "glassdoor-rating": 3.5,
+        "logo": "static/img/postmates.png",
         "link": "https://postmates.com/jobs"
     },
     {
@@ -511,6 +562,7 @@
         "funding": "$161 million",
         "investors": "Benchmark, SV Angel",
         "glassdoor-rating": 3.7,
+        "logo": "static/img/quora.png",
         "link": "http://www.quora.com/careers"
     },
     {
@@ -520,6 +572,7 @@
         "size": "50 to 100",
         "funding": "$15 million",
         "investors": "First Round, SV Angel",
+        "logo": "static/img/reserve.png",
         "link": "https://reserve.com/jobs"
     },
     {
@@ -530,6 +583,7 @@
         "funding": "$34.4 million",
         "investors": "a16z, Google Ventures, Lightspeed Venture Partners",
         "glassdoor-rating": 5.0,
+        "logo": "static/img/ripple-labs.png",
         "link": "https://www.ripplelabs.com/careers/"
     },
     {
@@ -539,6 +593,7 @@
         "size": "10 to 50",
         "funding": "$66 million",
         "investors": "a16z, Google Ventures, Index Ventures",
+        "logo": "static/img/robinhood.png",
         "link": "https://jobs.lever.co/robinhood"
     },
     {
@@ -549,6 +604,7 @@
         "funding": "$48 million",
         "investors": "Benchmark, DFJ, RRE Ventures",
         "glassdoor-rating": 3.6,
+        "logo": "static/img/sailthru.png",
         "link": "http://www.sailthru.com/join-us/"
     },
     {
@@ -559,6 +615,7 @@
         "funding": "$23.6 million",
         "investors": "First Round, Founder Collective, Union Square Ventures",
         "glassdoor-rating": 4.9,
+        "logo": "static/img/sift-science.png",
         "link": "https://siftscience.com/jobs"
     },
     {
@@ -569,6 +626,7 @@
         "funding": "$340 million",
         "investors": "a16z, Accel Partners, Google Ventures",
         "glassdoor-rating": 5.0,
+        "logo": "static/img/slack.png",
         "link": "https://slack.com/jobs"
     },
     {
@@ -579,6 +637,7 @@
         "funding": "$1.2 billion",
         "investors": "DFJ, Founders Fund, Google",
         "glassdoor-rating": 4.0,
+        "logo": "static/img/spacex.png",
         "link": "http://www.spacex.com/careers/list"
     },
     {
@@ -588,6 +647,7 @@
         "size": "10 to 50",
         "funding": "$7.5 million",
         "investors": "Lerer Hippeau Ventures, Spark Capital",
+        "logo": "static/img/splash.png",
         "link": "https://splashthat.com/careers"
     },
     {
@@ -598,6 +658,7 @@
         "funding": "$1.1 billion",
         "investors": "Accel Partners, Founders Fund, KPCB",
         "glassdoor-rating": 3.9,
+        "logo": "static/img/spotify.png",
         "link": "https://www.spotify.com/us/jobs/opportunities/"
     },
     {
@@ -608,6 +669,7 @@
         "funding": "$590.5 million",
         "investors": "KPCB, Sequoia Capital, Silicon Valley Bank",
         "glassdoor-rating": 4.5,
+        "logo": "static/img/square.png",
         "link": "http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=q8Z9VfwV&page=Jobs"
     },
     {
@@ -618,6 +680,7 @@
         "funding": "$78.5 million",
         "investors": "Accel Partners, Index Ventures",
         "glassdoor-rating": 4.0,
+        "logo": "static/img/squarespace.png",
         "link": "http://www.squarespace.com/about/careers"
     },
     {
@@ -628,6 +691,7 @@
         "funding": "$68 million",
         "investors": "a16z, Spark Capital, Union Square Ventures",
         "glassdoor-rating": 4.0,
+        "logo": "static/img/stack-exchange.png",
         "link": "http://stackexchange.com/work-here"
     },
     {
@@ -638,6 +702,7 @@
         "funding": "$190 million",
         "investors": "a16z, Founders Fund, Sequoia Capital",
         "glassdoor-rating": 4.1,
+        "logo": "static/img/stripe.png",
         "link": "https://stripe.com/jobs/#openings"
     },
     {
@@ -648,6 +713,7 @@
         "funding": "$233.7 million",
         "investors": "Bessemer Venture Partners, Founders Fund, Union Square Ventures",
         "glassdoor-rating": 4.6,
+        "logo": "static/img/twilio.png",
         "link": "https://www.twilio.com/company/jobs"
     },
     {
@@ -658,6 +724,7 @@
         "funding": "$35 million (Acquired by Amazon)",
         "investors": "Bessemer Venture Partners, Draper Associates, Thrive Capital",
         "glassdoor-rating": 4.9,
+        "logo": "static/img/twitch.png",
         "link": "http://www.jobscore.com/jobs2/twitch"
     },
     {
@@ -668,6 +735,7 @@
         "funding": "$1.3 million (Acquired by PayPal)",
         "investors": "Accel Partners, Lerer Hippeau Ventures, RRE Ventures",
         "glassdoor-rating": 4.8,
+        "logo": "static/img/venmo.png",
         "link": "https://venmo.com/jobs/"
     },
     {
@@ -677,6 +745,7 @@
         "size": "1 to 10",
         "funding": "$72 million",
         "investors": "Founders Fund",
+        "logo": "static/img/vicarious.png",
         "link": "http://vicarious.com/join.html"
     },
     {
@@ -687,7 +756,19 @@
         "funding": "$129.5 million",
         "investors": "Benchmark, Greylock Partners, Index Ventures",
         "glassdoor-rating": 4.8,
+        "logo": "static/img/wealthfront.png",
         "link": "https://www.wealthfront.com/careers#job-postings"
+    },
+    {
+        "name": "Wildcard",
+        "summary": "Speedy mobile web experience",
+        "location": "New York, NY",
+        "size": "1 to 10",
+        "funding": "$10 million",
+        "investors": "General Catalyst Partners, SoftBank Capital, SV Angel",
+        "glassdoor-rating": 5.0,
+        "logo": "static/img/wildcard.png",
+        "link": "http://www.trywildcard.com/jobs"
     },
     {
         "name": "ZocDoc",
@@ -697,6 +778,7 @@
         "funding": "$97.9 million",
         "investors": "Founders Fund, Khosla Ventures",
         "glassdoor-rating": 3.5,
+        "logo": "static/img/zocdoc.png",
         "link": "https://www.zocdoc.com/careers"
     }
     ]
