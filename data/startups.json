@@ -133,6 +133,16 @@
         "link": "http://canary.is/jobs/"
     },
     {
+        "name": "Clarifai",
+        "summary": "Visual recognition system",
+        "location": "New York, NY",
+        "size": "10 to 50",
+        "funding": "$10 million",
+        "investors": "Google Ventures, Union Square Ventures",
+        "logo": "static/img/logos/clarifai.png",
+        "link": "http://clarifai.com/careers"
+    },
+    {
         "name": "ClassPass",
         "summary": "Membership to unlimited fitness classes",
         "location": "New York, NY",
