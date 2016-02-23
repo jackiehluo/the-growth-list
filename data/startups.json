@@ -273,18 +273,6 @@
         "link": "http://www.greenhouse.io/careers"
     },
     {
-        "name": "Handy",
-        "summary": "On-demand app for household service providers",
-        "location": "New York, NY",
-        "size": "150 to 500",
-        "funding": "$60.7 million",
-        "investors": "General Catalyst Partners, Highland Capital Partners",
-        "glassdoor-rating": 3.4,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/Handy-Reviews-E680570.htm",
-        "logo": "static/img/logos/handy.png",
-        "link": "https://www.handy.com/careers"
-    },
-    {
         "name": "Heap",
         "summary": "Analytics service for user actions",
         "location": "San Francisco, CA",
