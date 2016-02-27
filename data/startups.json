@@ -513,18 +513,6 @@
         "link": "http://outbrain.mytribehr.com/careers/"
     },
     {
-        "name": "Palantir",
-        "summary": "Data analysis software",
-        "location": "Silicon Valley, CA",
-        "size": "1000 to 5000",
-        "funding": "$1.6 billion",
-        "investors": "Founders Fund",
-        "glassdoor-rating": 4.4,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/Palantir-Technologies-Reviews-E236375.htm",
-        "logo": "static/img/logos/palantir.png",
-        "link": "https://www.palantir.com/careers/"
-    },
-    {
         "name": "Pebble",
         "summary": "Smart watches",
         "location": "Silicon Valley, CA",
