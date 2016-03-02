@@ -411,18 +411,6 @@
         "link": "https://munchery.com/jobs/"
     },
     {
-        "name": "Nest",
-        "summary": "Smart home devices",
-        "location": "Silicon Valley, CA",
-        "size": "100 to 500",
-        "funding": "$80 million (Acquired by Google)",
-        "investors": "Google Ventures, KPCB, Venrock",
-        "glassdoor-rating": 3.5,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/Nest-Reviews-E670862.htm",
-        "logo": "static/img/logos/nest.png",
-        "link": "https://nest.com/careers/"
-    },
-    {
         "name": "Nylas",
         "summary": "Open-source email client and email API",
         "location": "San Francisco, CA",
@@ -431,16 +419,6 @@
         "investors": "Formation 8",
         "logo": "static/img/logos/nylas.png",
         "link": "http://nylas.com/team-and-culture"
-    },
-    {
-        "name": "Oculus VR",
-        "summary": "Virtual reality wearable tech",
-        "location": "Silicon Valley, CA",
-        "size": "100 to 250",
-        "funding": "$93.4 million (Acquired by Facebook)",
-        "investors": "a16z, Founders Fund, Spark Capital",
-        "logo": "static/img/logos/oculus-vr.png",
-        "link": "https://www.oculus.com/en-us/careers/"
     },
     {
         "name": "Operator",
