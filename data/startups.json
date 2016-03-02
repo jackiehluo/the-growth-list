@@ -97,18 +97,6 @@
         "link": "https://www.birchbox.com/about/openings"
     },
     {
-        "name": "Blue Apron",
-        "summary": "Recipe-driven delivery service",
-        "location": "New York, NY",
-        "size": "50 to 200",
-        "funding": "$193 million",
-        "investors": "Bessemer Venture Partners, First Round",
-        "glassdoor-rating": 3.3,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/Blue-Apron-Reviews-E777496.htm",
-        "logo": "static/img/logos/blue-apron.png",
-        "link": "https://www.blueapron.com/pages/jobs"
-    },
-    {
         "name": "Button",
         "summary": "Deep-linked mobile app experiences",
         "location": "New York, NY",
@@ -378,7 +366,7 @@
         "name": "Mattermark",
         "summary": "Business intelligence platform for VCs",
         "location": "San Francisco, CA",
-        "size": "10 to 50",
+        "size": "51 to 200",
         "funding": "$9.9 million",
         "investors": "a16z, Foundry Group",
         "glassdoor-rating": 4.4,
@@ -397,18 +385,6 @@
         "glassdoor-link": "http://www.glassdoor.com/Reviews/Medium-California-Reviews-E784883.htm",
         "logo": "static/img/logos/medium.png",
         "link": "https://medium.com/@Medium/jobs-page-b157594e8fce#bff4"
-    },
-    {
-        "name": "Mixpanel",
-        "summary": "Web and mobile analytics platform",
-        "location": "San Francisco, CA",
-        "size": "50 to 150",
-        "funding": "$77 million",
-        "investors": "a16z, Sequoia Capital",
-        "glassdoor-rating": 4.5,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/Mixpanel-Reviews-E406910.htm",
-        "logo": "static/img/logos/mixpanel.png",
-        "link": "https://mixpanel.com/jobs/#openings"
     },
     {
         "name": "MongoDB",
