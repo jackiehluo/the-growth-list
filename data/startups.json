@@ -213,6 +213,16 @@
         "link": "https://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qU29VfwK&cs=9vBbVfwW&nl=0"
     },
     {
+        "name": "Figma",
+        "summary": "Collaborative design tool",
+        "location": "San Francisco, CA",
+        "size": "11 to 50",
+        "funding": "$17.9 million",
+        "investors": "Greylock Partners, Index Ventures",
+        "logo": "static/img/logos/figma.png",
+        "link": "https://www.figma.com/careers"
+    },
+    {
         "name": "Flatiron Health",
         "summary": "Cloud platform for oncology data",
         "location": "New York, NY",
