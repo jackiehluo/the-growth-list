@@ -567,18 +567,6 @@
         "link": "https://jobs.lever.co/robinhood"
     },
     {
-        "name": "Sailthru",
-        "summary": "Personalized marketing communication",
-        "location": "New York, NY",
-        "size": "100 to 250",
-        "funding": "$48 million",
-        "investors": "Benchmark, DFJ, RRE Ventures",
-        "glassdoor-rating": 3.6,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/Sailthru-Reviews-E505788.htm",
-        "logo": "static/img/logos/sailthru.png",
-        "link": "http://www.sailthru.com/join-us/"
-    },
-    {
         "name": "Sift Science",
         "summary": "Fraud detection tech through machine learning",
         "location": "San Francisco, CA",
@@ -683,18 +671,6 @@
         "glassdoor-link": "http://www.glassdoor.com/Reviews/Twilio-Reviews-E410790.htm",
         "logo": "static/img/logos/twilio.png",
         "link": "https://www.twilio.com/company/jobs"
-    },
-    {
-        "name": "Twitch",
-        "summary": "Social gaming platform for video streaming",
-        "location": "San Francisco, CA",
-        "size": "50 to 100",
-        "funding": "$35 million (Acquired by Amazon)",
-        "investors": "Bessemer Venture Partners, Draper Associates, Thrive Capital",
-        "glassdoor-rating": 4.9,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/Twitch-Reviews-E639426.htm",
-        "logo": "static/img/logos/twitch.png",
-        "link": "http://www.jobscore.com/jobs2/twitch"
     },
     {
         "name": "Vicarious",
