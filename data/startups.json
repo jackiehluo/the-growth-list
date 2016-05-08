@@ -143,18 +143,6 @@
         "link": "http://blog.classpass.com/jobs/"
     },
     {
-        "name": "Cloudera",
-        "summary": "Hadoop enterprise software",
-        "location": "Silicon Valley, CA",
-        "size": "500 to 1000",
-        "funding": "$1 billion",
-        "investors": "Accel Partners, Google Ventures, Greylock Partners",
-        "glassdoor-rating": 4.6,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/Cloudera-Reviews-E360671.htm",
-        "logo": "static/img/logos/cloudera.png",
-        "link": "http://www.cloudera.com/content/cloudera/en/about/careers/current-openings.html"
-    },
-    {
         "name": "Codecademy",
         "summary": "Digital platform for learning to code",
         "location": "New York, NY",
