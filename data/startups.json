@@ -1,18 +1,6 @@
 {
     "startups": [
     {
-        "name": "Addepar",
-        "summary": "Wealth management software",
-        "location": "Silicon Valley, CA",
-        "size": "50 to 150",
-        "funding": "$65.8 million",
-        "investors": "ff Venture Capital",
-        "glassdoor-rating": 4.7,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/Addepar-Reviews-E423990.htm",
-        "logo": "static/img/logos/addepar.png",
-        "link": "https://www.addepar.com/careers/"
-    },
-    {
         "name": "Affirm",
         "summary": "Online bank and lending platform",
         "location": "San Francisco, CA",
