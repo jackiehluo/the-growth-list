@@ -199,6 +199,16 @@
         "link": "https://www.figma.com/careers"
     },
     {
+        "name": "Fin",
+        "summary": "AI assistant",
+        "location": "San Francisco, CA",
+        "size": "11 to 50",
+        "funding": "Unknown",
+        "investors": "Unknown",
+        "logo": "static/img/logos/fin.png",
+        "link": "https://www.fin.ventures"
+    },
+    {
         "name": "Flatiron Health",
         "summary": "Cloud platform for oncology data",
         "location": "New York, NY",
