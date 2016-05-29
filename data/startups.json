@@ -25,18 +25,6 @@
         "link": "https://www.airbnb.com/careers/departments"
     },
     {
-        "name": "AppNexus",
-        "summary": "Online advertising platform",
-        "location": "New York, NY",
-        "size": "500 to 1000",
-        "funding": "$288.2 million",
-        "investors": "First Round, Khosla Ventures, Venrock",
-        "glassdoor-rating": 3.5,
-        "glassdoor-link": "http://www.glassdoor.com/Reviews/AppNexus-Reviews-E347870.htm",
-        "logo": "static/img/logos/appnexus.png",
-        "link": "http://www.appnexus.com/en/company/careers/open-roles"
-    },
-    {
         "name": "Asana",
         "summary": "Task management software",
         "location": "San Francisco, CA",
